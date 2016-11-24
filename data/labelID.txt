@@ -1,0 +1,7 @@
+artificial tissue or artificial organ	1	1	1285  1284
+autonomous underwater vehicle	2	1286	1672	386
+bionic robot	3	1673	1955	278
+brain like robot	4	1956	2160	204
+industrial robot AND intelligent	5	2161	2289	128
+reductor or decelerator	6	2290	2385	95
+telemedicine or remote	7	2386	2613	227

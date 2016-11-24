@@ -1,0 +1,88 @@
+人造人体结构性组织技术得到应用	tissue	cells	culture	artificial	polymer	composition	blood	membrane	organ	acid	growth	prosthesis	stem	porous	preferably	treating	bone	synthetic	agent	compound	vascular	preferred	optionally	coating	heart	biological	gel	tubular	organs	substance	cardiac	graft	expression	living	aqueous	solvent	concentration	particle	polyurethane	chosen	oxide	organic	tissues	surgical	disease	differentiation	molecule	mixture	vessel	therapeutic	subject	mixing	article	animal	fibers	derivative	pulmonary	pharmaceutical	polyvinyl	layer	muscle	calcium	repeating	cellular	film	catheter	step	particles	crosslinking	resin	contacting	titanium	population	medical	derived	molecules	adhesive	lumen	coated	hydrophobic	phosphate	bond	fluid	diseases	sequence	reactive	transcription	conduit	proximal	mixed	salt	distal	dna	channel	skin	immune	binding	fabric	patient	pore	kit	
+自主水下机器人	underwater	sonar	autonomous	docking	unmanned	navigation	survey	submersible	remotely	ocean	vessel	barrel	pipeline	acoustic	data	recovering	submarine	launch	sea	propulsion	waves	water	fluid	payload	recovery	thrust	propulsive	aircraft	rudder	ship	propeller	towed	isolation	submerged	jar	recording	communications	apparatus	pulses	mission	aerial	receiver	alignment	antenna	location	cabin	latch	leak	depth	valve	fin	lamp	synthetic	foam	compensation	correlation	fault	vector	determined	deploying	measurements	pumping	transducers	seawater	fish	channel	inertial	language	anchor	cables	inspection	craft	flow	floating	porous	bulkhead	emergency	deployed	estimate	pump	structures	transducer	exploration	strut	signals	velocity	inlet	volume	nut	connectors	jet	array	coordinate	operable	attitude	baseline	sound	filter	gun	imaging	bladder	
+认知仿生机器人	bionic	leg	fin	foot	muscle	fish	swinging	spinal	waist	underwater	pneumatic	tail	pectoral	branch	oblique	trunk	garbage	walking	spherical	branched	worm	strip	freedom	knee	swing	alloy	thigh	biomimetic	cabin	grain	rear	spine	ankle	limb	steering	piezoelectric	hinge	shoulder	fuselage	middle	hip	chest	hinged	crank	thumb	slide	flexible	ultrasonic	fins	amphibious	chain	chip	elbow	assistant	left	bar	micron	topography	gait	circuit	bevel	bending	realizes	skeleton	gold	armature	sole	artificial	raw	machinery	fourth	tendon	sleeved	symmetrically	piece	cylinder	elastic	animal	propulsion	driven	spring	culture	finger	servo	electrode	wing	decomposing	feet	induction	amplitude	pole	frame	pump	double	blade	belonging	platform	terrain	swimming	basal	oxidation	
+类脑智能机器人	intelligence	artificial	personal	wearable	tablet	recorder	laptop	content	multimedia	data	desktop	learning	resonance	android	brain	server	portable	facial	recognition	washing	microwave	event	computer	speech	database	humanoid	intelligent	pathway	smart	displayed	electron	angiography	searched	flight	optimal	touchscreen	language	computed	messages	player	neural	book	file	mobile	voice	transcription	bulk	inference	entity	stimuli	navigation	processor	balls	pattern	security	pictures	screen	game	recording	notification	wrist	subject	address	apparatus	message	medical	dvd	determined	touch	signature	resource	pet	video	nodes	tomography	audio	request	ship	searching	displaying	chatting	accessory	appliances	mri	virtual	network	convenience	readable	flowchart	constructs	agent	expression	window	microphone	interactive	memory	media	transformed	tasks	collected	customer	
+智能工业机器人机构、传感、驱动技术	lug	intelligent	boss	grinding	welding	stirring	sorting	vision	pedestal	slide	cabinet	sewing	chatting	bear	feeding	thread	bucket	reducer	swinging	clamping	cylindrical	automatic	servo	hand	lifting	workpiece	insulation	grip	stacking	protecting	numerical	wire	core	voice	pressing	manipulator	data	regenerative	transient	crawler	teaching	centre	bending	machinery	grasping	bolt	protective	book	fault	classification	sink	language	cylinder	laser	conjugated	library	thumb	cement	hole	capacitor	cloud	bar	polishing	belt	product	measuring	walking	chain	testing	annular	stress	special	platform	fixing	vertical	cable	crankshaft	perfusion	dissection	claw	preparation	swing	coordinate	circular	conveying	rail	microphone	piezoelectric	anatomical	strip	male	flame	stereoscopic	flexible	detecting	wrist	piston	seat	circuit	ring	domain	
+开发新原理、新齿形RV减速器	eccentric	reducer	crankshaft	crank	lubricating	oscillation	tooth	carrier	gearwheel	gears	planetary	teeth	casing	meshes	cooling	externally	damage	periphery	engagement	bearings	cylinder	figure	cylindrical	supported	yaw	identical	notification	rotatably	oil	rotational	bevel	covers	internally	oscillating	installation	torque	clearance	cam	portions	element	tapered	circumferential	flange	orthogonal	friction	durability	suppresses	degradation	apparatus	linking	blade	heavy	acts	circular	piston	supports	language	light	driven	axis	radially	fitted	peripheral	engaged	peeling	suppressing	thickness	bore	engaging	simplified	outwardly	ratio	ring	color	diameter	failure	longitudinal	extends	intermediate	hydraulic	hole	pair	manufactured	mesh	ball	curvature	traveling	coating	thrust	final	nut	needle	angular	bolt	abrasion	exterior	spacer	stack	planar	partly	stabilizer	
+远程医疗机器人	surgical	invasive	minimally	manipulator	distal	surgery	proximal	linkage	firing	remote	articulating	surgeon	endoscopic	effector	tissue	telepresence	instruments	instrument	cannula	procedure	electrosurgical	patient	cart	endoscope	mission	catheter	operator	parallelogram	link	laparoscopic	links	procedures	mobile	law	cables	routine	actuation	coupled	manipulation	insertion	joints	incision	imaging	unmanned	map	messages	manipulated	tracked	remotely	grip	robotically	angles	holder	movements	data	tools	forces	diagnostic	explosive	outboard	privacy	stereo	elongate	articulated	configuration	ground	tendon	commands	interface	medical	payload	experience	strap	session	chassis	spherical	displayed	console	knife	sterile	inference	reconfiguration	buildings	patients	debris	behaviors	freedom	entry	video	plan	awareness	maintaining	axis	processor	minimize	tracks	mapping	master	systems	wrist	docking	
+
+1284
+人造人体结构性组织技术得到应用	tissue	cells	culture	artificial	polymer	composition	blood	membrane	organ	acid	growth	prosthesis	stem	porous	preferably	treating	bone	synthetic	agent	compound	vascular	preferred	optionally	coating	heart	biological	gel	tubular	organs	substance	cardiac	graft	expression	living	aqueous	solvent	concentration	particle	
+组织  细胞  文化  人工  聚合物  组成  血液  膜  器官  酸  生长  假体  干  多孔  优选  治疗  骨  合成  代理  复合  血管  首选  可选  涂层  心  生物  凝胶  管状  器官  物质  心脏  接枝  表达  活的  水溶液  溶剂  浓度  粒子
+386
+自主水下机器人	underwater	sonar	autonomous	docking	unmanned	navigation	survey	submersible	remotely	ocean	vessel	barrel	pipeline	acoustic	data	recovering	submarine	launch	sea	propulsion	waves	water	fluid	payload	recovery	thrust	propulsive	aircraft	rudder	ship	propeller	towed	isolation	submerged	jar	recording	communications	apparatus
+水下 声纳 自主性 对接 无人 导航 调查 潜水器 远程 海洋 船只 桶 管道 声学 数据 恢复 潜艇 发射 海 推进 波浪 水 流体 有效载荷 复苏 推力 推进 飞机 舵 船 螺旋桨 拖曳 隔离 湮 罐 记录 通信 仪器
+278
+认知仿生机器人	bionic	leg	fin	foot	muscle	fish	swinging	spinal	waist	underwater	pneumatic	tail	pectoral	branch	oblique	trunk	garbage	walking	spherical	branched	worm	strip	freedom	knee	swing	alloy	thigh	biomimetic	cabin	grain	rear	spine	ankle	limb	steering	piezoelectric	hinge	shoulder	fuselage	middle	hip	chest	hinged
+仿生 腿 鳍 脚丫子 肌肉 鱼 摆动 脊 腰部 水下 气动 尾巴 胸饰 科 斜 树干 垃圾 步行 球形 支化 虫 跳闸 自由 膝盖 摇摆 合金 大腿 仿生学 舱 粮食 后 脊柱 踝 肢 操舵 压电 合页 肩 机身 中间 髋关节 胸部 铰链
+204
+类脑智能机器人	intelligence	artificial	personal	wearable	tablet	recorder	laptop	content	multimedia	data	desktop	learning	resonance	android	brain	server	portable	facial	recognition	washing	microwave	event	computer	speech	database	humanoid	intelligent	pathway	smart	displayed	electron	angiography	searched	flight	optimal	touchscreen	language
+情报 人工 个人 可穿戴 片剂 录音机 笔记本电脑 内容 多媒体 数据 桌面 学习 谐振 安卓 脑 服务器 便携式 面部 承认 洗涤 微波 事件 电脑 言语 数据库 类人动物 智能 通路 聪明 显示 电子 血管造影 搜索 飞行 最佳 触摸屏 语言
+128
+智能工业机器人机构、传感、驱动技术	lug	intelligent	boss	grinding	welding	stirring	sorting	vision	pedestal	slide	cabinet	sewing	chatting	bear	feeding	thread	bucket	reducer	swinging	clamping	cylindrical	automatic	servo	hand	lifting	workpiece	insulation	grip	stacking	protecting	numerical	wire	core	voice	pressing	manipulator	data	regenerative
+耳 智能 老板 研磨 焊接 搅拌 排序 视力 座 滑动 内阁 缝纫 聊天 承受 喂养 线 桶 减速器 摆动 夹紧 圆柱形 自动 伺服 手 提升 工件 绝缘 握 堆叠 保护 数值 线 核心 语音 紧迫 操纵器 数据 再生
+95
+开发新原理、新齿形RV减速器	eccentric	reducer	crankshaft	crank	lubricating	oscillation	tooth	carrier	gearwheel	gears	planetary	teeth	casing	meshes	cooling	externally	damage	periphery	engagement	bearings	cylinder	figure	cylindrical	supported	yaw	identical	notification	rotatably	oil	rotational	bevel	covers	internally	oscillating	installation	torque
+偏心 减速器 曲轴 曲柄 润滑 振荡 齿 载体 齿轮 齿轮 行星 牙齿 套管 网格 冷却 外部 损伤 周边 订婚 轴承 圆筒 数字 圆柱形 支持的 偏航 相同 通知 可旋转 油 旋转 斜角 盖子 内部 振荡 安装 扭矩
+227
+远程医疗机器人	surgical	invasive	minimally	manipulator	distal	surgery	proximal	linkage	firing	remote	articulating	surgeon	endoscopic	effector	tissue	telepresence	instruments	instrument	cannula	procedure	electrosurgical	patient	cart	endoscope	mission	catheter	operator	parallelogram	link	laparoscopic	links	procedures	mobile	law	cables	routine
+外科 侵入性 最低限度 操纵器 远端 手术 近端 连锁 射击 远程 发音 外科医生 内窥镜 效应器 组织 远程呈现 仪器 仪器 套管 程序 电外科 患者 大车 内窥镜 任务 导管 运算符 平行四边形 链接 腹腔镜 链接 程序 移动 法 电缆 常规
+
+
+
+Start ten fold cross test
+Ten fold cross test precise:[0.970856320460542, 0.9687875150060024, 1.0, 1.0, 1.0, 1.0, 1.0, 0.9938605619146722, 0.9930694108999265, 0.9742846794639624]
+Average:0.9900858487745104
+Ten fold cross test precise:[0.9281977405413602, 0.9622077764767635, 1.0, 1.0, 1.0, 1.0, 1.0, 0.9894846217788861, 0.9797833935018051, 0.9324747084873847]
+Average:0.97921482407862
+
+Unlabel rate test
+0.9976640260004063
+0.9905434238600743
+0.9897454199381395
+0.9762188613332964
+0.9517688277951122
+0.938860566904379
+0.9298469222874014
+0.8457281778189396
+0.6668143374949658
+0.4580964830623172
+Unlabel rate test precise:[0.9976640260004063, 0.9905434238600743, 0.9897454199381395, 0.9762188613332964, 0.9517688277951122, 0.938860566904379, 0.9298469222874014, 0.8457281778189396, 0.6668143374949658, 0.4580964830623172]
+Unlabel rate test recall:[0.9933252915158826, 0.9772962334441242, 0.96960009945345, 0.95314007033441, 0.9205198897203624, 0.8959498018964706, 0.898963111084628, 0.8438269968100204, 0.7895235753581636, 0.7428939933231434]
+
+Less Label Test
+1Less Label Test precise:[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Average:1.0
+1Less Label Test recall:[0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Average:0.8571428571428571
+
+2Less Label Test precise:[0.8984559631435897, 1.0, 1.0, 1.0, 1.0, 1.0]
+Average:0.983075993857265
+2Less Label Test recall:[0.414001411780012, 1.0, 1.0, 1.0, 1.0, 1.0]
+Average:0.9023335686300019
+
+3Less Label Test precise:[0.796111116820653, 0.9891095099279468, 1.0, 1.0, 1.0]
+Average:0.95704412534972
+3Less Label Test recall:[0.5629685203748039, 0.9650617103658417, 1.0, 1.0, 1.0]
+Average:0.9056060461481291
+
+4Less Label Test precise:[0.6186864485816407, 0.7855805404291137, 1.0, 1.0]
+Average:0.8510667472526886
+4Less Label Test recall:[0.6304768903676187, 0.8655397757442168, 1.0, 1.0]
+Average:0.8740041665279589
+
+5Less Label Test precise:[0.4521037204236891, 0.6924721063587134, 0.9907285171720455]
+Average:0.7117681146514826
+5Less Label Test recall:[0.6497366613669185, 0.8721514591057067, 0.9943396665464403]
+Average:0.8387425956730219
+
+6Less Label Test precise:[0.3808258596861147, 0.48916717000096827]
+Average:0.4349965148435415
+6Less Label Test recall:[0.6686984939482158, 0.8974709480444598]
+Average:0.7830847209963379
+
+More Topic Test
+More Topic Test precise:[0.9651092748474785, 0.9718473152728978, 0.9714183316907087, 0.9738748367177295, 0.9614597630495373, 0.972682741473166, 0.971820144394111, 0.9751388142575677, 0.9650211902345849, 0.9616895172807769, 0.9778089749273435, 0.96463398193502]
+Average:0.9693754071734101
+More Topic Test precise:[0.9169271218548545, 0.8852691575784426, 0.882451066088811, 0.8955805671249542, 0.8939002347226713, 0.9016790272447254, 0.8853270401557378, 0.8834994782226616, 0.8919178314018319, 0.8807799430136786, 0.9056426516352534, 0.8809395025623631]
+Average:0.8919928018004986
